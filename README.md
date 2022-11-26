@@ -11,5 +11,6 @@
 * Master backend development with Node
 * Learn professional developer best practices
 
-Created by Angela Yu
-Authored by @FrontendGeek.
+* Created by Angela Yu
+##
+* Authored by @FrontendGeek.
